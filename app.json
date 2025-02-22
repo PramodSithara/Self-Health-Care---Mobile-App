@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "self-health-care",
+    "slug": "snack-c36ac0c8-9e0b-421c-b38e-0731495fa997",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.pramod1999.snackc36ac0c89e0b421cb38e0731495fa997"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "72cb1c64-96e8-4198-848e-c6750da2a20d"
+      }
+    }
+  }
+}
